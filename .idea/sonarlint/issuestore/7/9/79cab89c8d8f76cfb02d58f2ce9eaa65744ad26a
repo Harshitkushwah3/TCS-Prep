@@ -1,0 +1,9 @@
+
+„
+java:S2184"ACast one of the operands of this division operation to a "float".(ŞòÁ¹8ß¶Í³í1J$a6570287-94a9-4d23-9b32-d39a6cb3b72d
+ƒ
+java:S2184"@Cast one of the operands of this integer division to a "double".(ŞòÁ¹8ß¶Í³í1J$bbd241bd-0c70-4198-b944-bc665e64ca17
+¡	java:S120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ8ÍŠº³í1J$c86aa8e9-0b02-4e0e-b5af-2ca187b42ab8
+r	java:S106"+Replace this use of System.out by a logger.(æ–İ€ÿÿÿÿÿ8ØŠº³í1J$2874f890-d943-449f-8c83-b2920a0de232
+m	java:S106"+Replace this use of System.out by a logger.(ìŸÿ8Œñ¼³í1J$1e221ce8-f1a2-4ed0-991c-a381f9175ee3
+m	java:S106"+Replace this use of System.out by a logger.(ìŸÿ8šŒË³í1J$9bf90057-517f-4064-82c9-dd83da981990
