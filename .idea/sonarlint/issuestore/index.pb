@@ -364,3 +364,5 @@ w
 G.idea/sonarlint/issuestore/c/5/c585fd2d8ed16d2109a38047805c27f704cad06f,7\5\7528f2ba0c9b6e864f91c904bcef479c99ffa870
 Å
 Q.idea/sonarlint/securityhotspotstore/a/7/a7cfc3706a76a78af0a0498337bcae3e6703fec4,9\7\9766f3b26f71e75722042bc05571a43119a36dbd
+N
+src/Sorting/Insertionsort.java,1\d\1de992c93ae55f2f7ce391f3963ffebd63d049db
