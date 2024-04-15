@@ -1,9 +1,5 @@
 
 œ	java:S120
-"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö8«İã†î1J$3c425de8-d5bc-43ce-aa77-b6f359c1f7f5
-z
-java:S1854"7Remove this useless assignment to local variable "arr".(èÜ8¯İã†î1J$6cb7da04-804b-4c7f-88ca-f20300c13882
-k
-java:S1481"(Remove this unused "arr" local variable.(èÜ8²İã†î1J$5103fbe6-6f45-4b12-9464-8abca1aa61bd
-r
-java:S1172"*Remove this unused method parameter "arr".(¬‘¥ıÿÿÿÿ8¸İã†î1J$b2dec5f7-f164-4575-af59-8955aa675c9f
+"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö8Ôó¸î1J$8e63f39d-eb06-49d4-a5e5-240ea54a3f27
+m	java:S106"+Replace this use of System.out by a logger.(×Æáî8äó¸î1J$5084f6f4-989b-4619-8d3b-6aec05c3025c
+}	java:S125"<This block of commented-out lines of code should be removed.(ü¬×8Ïê½î1J$02242e17-94e5-4ae3-9cc9-bfd499be111d
