@@ -1,8 +1,9 @@
-TCS Coding Preparation
+## TCS Coding Preparation
+
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ktogURzTePzP34zgIknZAYf1vALvxMq07ZlRoChJIw&s)
 
 
-## Topicwise Progams
+## Topicwise Programs
 
 **Problems on Arrays:** 
 
