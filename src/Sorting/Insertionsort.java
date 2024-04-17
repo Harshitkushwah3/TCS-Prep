@@ -3,6 +3,7 @@ package Sorting;
 import java.util.Arrays;
 
 public class Insertionsort {
+
     public static void main(String[] args) {
         int[] arr={8,7,9,2,46,3,15,6};
         sort(arr);

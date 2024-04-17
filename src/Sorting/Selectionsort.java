@@ -23,6 +23,8 @@ public class Selectionsort {
                     min=j;
                 }
             }
+
+
             // here it swap the values
             int temp=arr[i];
             arr[i]=arr[min];
