@@ -366,3 +366,9 @@ G.idea/sonarlint/issuestore/c/5/c585fd2d8ed16d2109a38047805c27f704cad06f,7\5\75
 Q.idea/sonarlint/securityhotspotstore/a/7/a7cfc3706a76a78af0a0498337bcae3e6703fec4,9\7\9766f3b26f71e75722042bc05571a43119a36dbd
 N
 src/Sorting/Insertionsort.java,1\d\1de992c93ae55f2f7ce391f3963ffebd63d049db
+J
+src/Sorting/Quicksort.java,3\5\35b2f5d047a7958818803c3ffee9c5948e8f6954
+J
+src/Sorting/MergeSort.java,e\d\ed7208df1712975efff4d62fc09620f6e527122b
+J
+src/Sorting/Cyclesort.java,f\f\ff66019c001ca748141ea173a175771dc014da1e
