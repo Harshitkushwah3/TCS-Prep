@@ -1,4 +1,4 @@
-package CyclesortQuestion;
+package CyclicsortQuestion;
 public class MIssingNumber {
     public static void main(String[] args) {
         int [] arr = {1,5,0,8,9,6,7,12,11,2,4,3};

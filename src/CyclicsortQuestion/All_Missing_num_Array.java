@@ -2,7 +2,7 @@
 Here we use Arraylist <Integer> because here we use an array  which have dynamic length so to reduce the space complexity we use ArrayList<Integer> here.
 ==> Here the values in array is equal the value of N where the values is in range of 1 to N.
 */
-package CyclesortQuestion;
+package CyclicsortQuestion;
 
 import java.util.ArrayList;
 import java.util.List;
