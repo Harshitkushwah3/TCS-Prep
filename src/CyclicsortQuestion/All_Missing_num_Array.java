@@ -36,7 +36,7 @@ public class All_Missing_num_Array {
         return ans;
     }
 
-    static void swap(int[] arr, int first, int second) {
+    public static void swap(int[] arr, int first, int second) {
         int temp = arr[first];
         arr[first] = arr[second];
         arr[second] = temp;

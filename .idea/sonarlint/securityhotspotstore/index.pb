@@ -378,3 +378,15 @@ g
 7src/CyclesortQuestion/All_Num_Disappeared_an_array.java,0\3\03500d76e72d7e674a7fdf1e2680974990905f05
 `
 0src/CyclesortQuestion/All_Missing_num_Array.java,b\6\b602e84db34c93e5d38842feeeb9508cec07b7bb
+a
+1src/CyclicsortQuestion/All_Missing_num_Array.java,5\4\542155c63780be7b0194722b6913ebaa5d5d38c2
+Y
+)src/CyclicsortQuestion/MIssingNumber.java,7\8\781122fa3bd94d666d33fda73de4d08e58ed1a3c
+\
+,src/CyclicsortQuestion/Duplicate_number.java,d\9\d979ec903d806acaa20021660ec182d73ab2b857
+Y
+)src/CyclicsortQuestion/All_duplicate.java,5\2\52bd35cc73dade0eba967e9ce1a4e985a1413ad0
+X
+(src/CyclicsortQuestion/Set_Mismatch.java,7\9\79645cc0fa79797e5119f7ba08f234d7ca0cb685
+b
+2src/CyclicsortQuestion/First_Missing_Positive.java,4\5\45085831c8d462501c44f60987631aa2c7f743f9
