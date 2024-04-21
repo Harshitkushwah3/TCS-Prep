@@ -1,0 +1,12 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÅæı8Î»µï1J$2058b2d8-2316-4f8b-a12c-f72fa5e40e52
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õïğ°8ÈÃï1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î¹Ÿçıÿÿÿÿ8ö‹Âï1J$aa3a9ebf-9bc6-40c8-9658-dbd92d03b821
+­
+java:S4165"eRemove this useless assignment; "org_num" already holds the assigned value along all execution paths.(¦‹Üùıÿÿÿÿ8„¼µï1J$0c0821a6-c3b5-471a-89d2-afff9a1c2185
+m	java:S106"+Replace this use of System.out by a logger.(Ù©È±8™¼µï1J$d42bebe4-2410-45ad-8d97-aba122fceeb5
+r	java:S106"+Replace this use of System.out by a logger.(¾ùê¤üÿÿÿÿ8š¼µï1J$43bb41cf-1a41-43ef-8ec8-5a651ebebe23
+~
+java:S1854";Remove this useless assignment to local variable "org_num".(¼´¹8œ¼µï1J$285a74e7-065a-414a-be5d-f162c394270f
+ƒ
+java:S1659"@Declare "rem" and all following declarations on a separate line.(ÛÅæı8©¼µï1J$23093b5f-1bc4-4da1-944a-5fc2bd6b1afb
